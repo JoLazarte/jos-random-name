@@ -14,7 +14,7 @@
   "author": "Joanna Lazarte <jlazartelagos@gmail.com>",
   "license": "ISC",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg-jo90": "./bin/global.js"
   },
   "preferGlobal": true
 }
