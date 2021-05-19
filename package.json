@@ -20,5 +20,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JoLazarte/jos-random-name.git"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/JoLazarte/jos-random-name/issues"
+  },
+  "homepage": "https://github.com/JoLazarte/jos-random-name#readme"
 }
